@@ -2,7 +2,7 @@
 ### PROJECT EXPLANATION:
 I have designed an academic management system to calculate the final mark output of students in an academy. I have also designed a bonus mark allocation to the students who have done something extra curricular in their academic session. The ones who have done something against the academy’s agenda should also be punished so I have also allocated negative marks to those students. The final results are published considering all the activities of the students including the academic performance extra-curricular activities and also the negative marks for bad behaviour.
 
-![draw]([https://user-images.githubusercontent.com/76884959/172964022-504314b0-1c60-4d68-9478-7ed1fde24074.png](https://github.com/Dark-knight-02/JAVA-PROJECT-MA-104-ASSIGNMENT/blob/main/Untitled%20Diagram.drawio.png))
+![draw]([[https://user-images.githubusercontent.com/76884959/172964022-504314b0-1c60-4d68-9478-7ed1fde24074.png](https://github.com/Dark-knight-02/JAVA-PROJECT-MA-104-ASSIGNMENT/blob/main/Untitled%20Diagram.drawio.png)](https://github.com/Dark-knight-02/JAVA-PROJECT-MA-104-ASSIGNMENT/blob/main/Untitled%20Diagram.drawio.png))
 
 
 ### Functions of class:
@@ -25,7 +25,7 @@ Inherits Examprofile class and implements Achievement. It has a constructor to i
 When a new object is initiated, the constructor assigns the values to the attributes, most of which are inherited from other classes. The method `calculatedResult()` uses control statements to calculate the final marks of the student based on the attributes. The method `displayResult()` uses inherited methods `assignProf()`, `displayStudent()`, `showScore()`, `calculatedResult()` to display the final result.
 
 ### Output:
-![Output]([https://user-images.githubusercontent.com/76884959/172964002-3da7f82a-9cd9-4ef4-b0a0-e7e39ca80e03.png](https://github.com/Dark-knight-02/JAVA-PROJECT-MA-104-ASSIGNMENT/blob/main/output.png))
+![Output]([[https://user-images.githubusercontent.com/76884959/172964002-3da7f82a-9cd9-4ef4-b0a0-e7e39ca80e03.png](https://github.com/Dark-knight-02/JAVA-PROJECT-MA-104-ASSIGNMENT/blob/main/output.png](https://github.com/Dark-knight-02/JAVA-PROJECT-MA-104-ASSIGNMENT/blob/main/output.png)))
 
 
 #### Note:
